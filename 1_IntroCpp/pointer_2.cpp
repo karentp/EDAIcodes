@@ -1,6 +1,16 @@
 // C++ program to illustrate Pointers
 
-#include <bits/stdc++.h>
+//#include <bits/stdc++.h> // Esto es para Linux y Windows 
+/* Para MAC hay que incluir los de abajo */
+
+#include <iostream>
+#include <vector>
+#include <string>
+#include <algorithm>
+#include <cmath>
+#include <map>
+#include <set>
+
 using namespace std;
 void geeks()
 {
@@ -16,6 +26,7 @@ void geeks()
     cout << "Value at ptr = " << ptr << "\n";
     cout << "Value at var = " << var << "\n";
     cout << "Value at *ptr = " << *ptr << "\n";
+    cout << "Value at &var = " << &var << "\n";
 }
 // Driver program
 int main() 

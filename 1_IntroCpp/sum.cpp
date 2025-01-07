@@ -1,8 +1,8 @@
-#include <iostream>  // Incluye la librería para entrada y salida
-using namespace std; // Permite usar los elementos del espacio de nombres estándar directamente
+#include <iostream>  // Incluye la libreria para entrada y salida
+using namespace std; // Permite usar los elementos del espacio de nombres estandar directamente
 
 int main() {
-    int number1, number2, sum; // Declara las variables para almacenar los números y la suma
+    int number1, number2, sum;  // Declara las variables para almacena los numeros y la suma
 
     // Solicita al usuario que ingrese el primer número
     cout << "Enter first number: ";

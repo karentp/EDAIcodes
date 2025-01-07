@@ -1,3 +1,7 @@
+#include <iostream> // Para cout
+#include <string>   // Para string
+using namespace std; // Para evitar usar std:: antes de cout y string
+
 struct myDataType { // Esta estructura se llama "myDataType"
   int myNum;
   string myString;
