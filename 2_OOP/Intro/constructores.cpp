@@ -3,7 +3,7 @@ using namespace std;
 
 
 // Constructor Por Defecto
-class Example {
+/*class Example {
 public:
     Example() {
         cout << "Constructor por defecto invocado." << endl;
@@ -13,10 +13,10 @@ public:
 int main() {
     Example obj; // Invoca el constructor por defecto
     return 0;
-}
+}*/
 
 //Constructor Parametrizado
-class Example {
+/*class Example {
 public:
     int value;
     Example(int v) {
@@ -26,12 +26,12 @@ public:
 };
 
 int main() {
-    Example obj(42); // Invoca el constructor parametrizado
+    Example obj(24); // Invoca el constructor parametrizado
     return 0;
-}
+}*/
 
 //Constructor Copia
-class Example {
+/*class Example {
 public:
     int value;
     Example(int v) : value(v) {}
@@ -45,6 +45,6 @@ int main() {
     Example obj1(42); // Constructor parametrizado
     Example obj2 = obj1; // Constructor copia
     return 0;
-}
+}*/
 
 
