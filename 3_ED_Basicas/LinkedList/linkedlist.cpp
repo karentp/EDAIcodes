@@ -8,7 +8,7 @@ int main() {
     LinkedList myList(11);
 
     // Agregar más nodos al final de la lista
-    myList.append(3);   // Agregar 3 a la lista
+   -0 myList.append(3);   // Agregar 3 a la lista
     myList.append(23);  // Agregar 23 a la lista
     myList.append(7);   // Agregar 7 a la lista
 
