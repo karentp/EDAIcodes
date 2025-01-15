@@ -2,6 +2,7 @@
 #define STACK_H
 
 #include <iostream>
+#include "Node.h"
 
 using namespace std;
 
